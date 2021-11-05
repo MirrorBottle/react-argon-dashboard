@@ -48,11 +48,7 @@ class Profile extends React.PureComponent {
                 <Row className="justify-content-center">
                   <Col className="order-lg-2" lg="3">
                     <div className="card-profile-image">
-<<<<<<< HEAD
-                      <a href="#pablo" onClick={(e) => e.preventDefault()}>
-=======
                       <a href="#pablo" onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}>
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         <img
                           alt="..."
                           className="rounded-circle"
@@ -70,11 +66,7 @@ class Profile extends React.PureComponent {
                       className="mr-4"
                       color="info"
                       href="#pablo"
-<<<<<<< HEAD
-                      onClick={(e) => e.preventDefault()}
-=======
                       onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                       size="sm"
                     >
                       Connect
@@ -83,11 +75,7 @@ class Profile extends React.PureComponent {
                       className="float-right"
                       color="default"
                       href="#pablo"
-<<<<<<< HEAD
-                      onClick={(e) => e.preventDefault()}
-=======
                       onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                       size="sm"
                     >
                       Message
@@ -136,11 +124,7 @@ class Profile extends React.PureComponent {
                       Nick Murphy — writes, performs and records all of his own
                       music.
                     </p>
-<<<<<<< HEAD
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
-=======
                     <a href="#pablo" onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}>
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                       Show more
                     </a>
                   </div>
@@ -158,11 +142,7 @@ class Profile extends React.PureComponent {
                       <Button
                         color="primary"
                         href="#pablo"
-<<<<<<< HEAD
-                        onClick={(e) => e.preventDefault()}
-=======
                         onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         size="sm"
                       >
                         Settings

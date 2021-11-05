@@ -73,11 +73,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -106,11 +102,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip742438047"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -130,11 +122,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip941738690"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -154,11 +142,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip804044742"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -178,11 +162,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip996637554"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -220,42 +200,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -269,11 +233,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -302,11 +262,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip746418347"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -326,11 +282,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip102182364"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -350,11 +302,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip406489510"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -374,11 +322,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip476840018"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -416,42 +360,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -465,11 +393,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -498,11 +422,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip753056318"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -522,11 +442,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip441753266"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -546,11 +462,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip188462246"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -570,11 +482,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip621168444"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -612,42 +520,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -661,11 +553,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -694,11 +582,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip875258217"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -718,11 +602,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip834416663"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -742,11 +622,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip372449339"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -766,11 +642,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip108714769"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -808,42 +680,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -857,11 +713,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -890,11 +742,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip664029969"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -914,11 +762,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip806693074"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -938,11 +782,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip844096937"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -962,11 +802,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip757459971"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1004,42 +840,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -1058,11 +878,7 @@ class Tables extends React.PureComponent {
                       <PaginationItem className="disabled">
                         <PaginationLink
                           href="#pablo"
-<<<<<<< HEAD
-                          onClick={(e) => e.preventDefault()}
-=======
                           onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           tabIndex={0}
                         >
                           <i className="fas fa-angle-left" />
@@ -1072,11 +888,7 @@ class Tables extends React.PureComponent {
                       <PaginationItem className="active">
                         <PaginationLink
                           href="#pablo"
-<<<<<<< HEAD
-                          onClick={(e) => e.preventDefault()}
-=======
                           onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         >
                           1
                         </PaginationLink>
@@ -1084,11 +896,7 @@ class Tables extends React.PureComponent {
                       <PaginationItem>
                         <PaginationLink
                           href="#pablo"
-<<<<<<< HEAD
-                          onClick={(e) => e.preventDefault()}
-=======
                           onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         >
                           2
                         </PaginationLink>
@@ -1096,11 +904,7 @@ class Tables extends React.PureComponent {
                       <PaginationItem>
                         <PaginationLink
                           href="#pablo"
-<<<<<<< HEAD
-                          onClick={(e) => e.preventDefault()}
-=======
                           onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         >
                           3
                         </PaginationLink>
@@ -1108,11 +912,7 @@ class Tables extends React.PureComponent {
                       <PaginationItem>
                         <PaginationLink
                           href="#pablo"
-<<<<<<< HEAD
-                          onClick={(e) => e.preventDefault()}
-=======
                           onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         >
                           <i className="fas fa-angle-right" />
                           <span className="sr-only">Next</span>
@@ -1152,11 +952,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1185,11 +981,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip731399078"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1209,11 +1001,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip491083084"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1233,11 +1021,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip528540780"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1257,11 +1041,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip237898869"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1299,42 +1079,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -1348,11 +1112,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1381,11 +1141,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip188614932"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1405,11 +1161,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip66535734"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1429,11 +1181,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip427561578"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1453,11 +1201,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip904098289"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1495,42 +1239,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -1544,11 +1272,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1577,11 +1301,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip707904950"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1601,11 +1321,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip353988222"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1625,11 +1341,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip467171202"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1649,11 +1361,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip362118155"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1691,42 +1399,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -1740,11 +1432,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1773,11 +1461,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip226319315"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1797,11 +1481,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip711961370"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1821,11 +1501,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip216246707"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1845,11 +1521,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip638048561"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1887,42 +1559,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>
@@ -1936,11 +1592,7 @@ class Tables extends React.PureComponent {
                           <a
                             className="avatar rounded-circle mr-3"
                             href="#pablo"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1969,11 +1621,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip781594051"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -1993,11 +1641,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip840372212"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -2017,11 +1661,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip497647175"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -2041,11 +1681,7 @@ class Tables extends React.PureComponent {
                             className="avatar avatar-sm"
                             href="#pablo"
                             id="tooltip951447946"
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <img
                               alt="..."
@@ -2083,42 +1719,26 @@ class Tables extends React.PureComponent {
                             role="button"
                             size="sm"
                             color=""
-<<<<<<< HEAD
-                            onClick={(e) => e.preventDefault()}
-=======
                             onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                           >
                             <i className="fas fa-ellipsis-v" />
                           </DropdownToggle>
                           <DropdownMenu className="dropdown-menu-arrow" right>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Another action
                             </DropdownItem>
                             <DropdownItem
                               href="#pablo"
-<<<<<<< HEAD
-                              onClick={(e) => e.preventDefault()}
-=======
                               onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                             >
                               Something else here
                             </DropdownItem>

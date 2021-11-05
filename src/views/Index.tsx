@@ -75,8 +75,6 @@ class Index extends React.Component<
         <Header />
         {/* Page content */}
         <Container className="mt--7" fluid>
-<<<<<<< HEAD
-=======
           <Row>
             <Col className="mb-5 mb-xl-0" xl="8">
               <Card className="bg-gradient-default shadow">
@@ -155,7 +153,6 @@ class Index extends React.Component<
               </Card>
             </Col>
           </Row>
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
           <Row className="mt-5">
             <Col className="mb-5 mb-xl-0" xl="8">
               <Card className="shadow">
@@ -168,11 +165,7 @@ class Index extends React.Component<
                       <Button
                         color="primary"
                         href="#pablo"
-<<<<<<< HEAD
-                        onClick={(e) => e.preventDefault()}
-=======
                         onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         size="sm"
                       >
                         See all
@@ -250,11 +243,7 @@ class Index extends React.Component<
                       <Button
                         color="primary"
                         href="#pablo"
-<<<<<<< HEAD
-                        onClick={(e) => e.preventDefault()}
-=======
                         onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
->>>>>>> f915198f8e15267e7f344869d74596ec52ea7a53
                         size="sm"
                       >
                         See all
