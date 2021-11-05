@@ -94,7 +94,7 @@ class Index extends React.Component<
                               active: activeNav === 1,
                             })}
                             href="#pablo"
-                            onClick={(e) => this.toggleNavs(e, 1)}
+                            onClick={(e: React.MouseEvent<HTMLButtonElement>) => this.toggleNavs(e, 1)}
                           >
                             <span className="d-none d-md-block">Month</span>
                             <span className="d-md-none">M</span>
@@ -107,7 +107,7 @@ class Index extends React.Component<
                             })}
                             data-toggle="tab"
                             href="#pablo"
-                            onClick={(e) => this.toggleNavs(e, 2)}
+                            onClick={(e: React.MouseEvent<HTMLButtonElement>) => this.toggleNavs(e, 2)}
                           >
                             <span className="d-none d-md-block">Week</span>
                             <span className="d-md-none">W</span>
@@ -123,7 +123,7 @@ class Index extends React.Component<
                     <Line
                       data={chartExample1[chartExample1Data]}
                       options={chartExample1.options}
-                      getDatasetAtEvent={(e) => console.log(e)}
+                      getDatasetAtEvent={(e: React.MouseEvent<HTMLButtonElement>) => console.log(e: React.MouseEvent<HTMLButtonElement>)}
                     />
                   </div> */}
                 </CardBody>
@@ -165,7 +165,7 @@ class Index extends React.Component<
                       <Button
                         color="primary"
                         href="#pablo"
-                        onClick={(e) => e.preventDefault()}
+                        onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                         size="sm"
                       >
                         See all
@@ -243,7 +243,7 @@ class Index extends React.Component<
                       <Button
                         color="primary"
                         href="#pablo"
-                        onClick={(e) => e.preventDefault()}
+                        onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                         size="sm"
                       >
                         See all

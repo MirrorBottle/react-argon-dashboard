@@ -48,7 +48,7 @@ class Profile extends React.PureComponent {
                 <Row className="justify-content-center">
                   <Col className="order-lg-2" lg="3">
                     <div className="card-profile-image">
-                      <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                      <a href="#pablo" onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}>
                         <img
                           alt="..."
                           className="rounded-circle"
@@ -66,7 +66,7 @@ class Profile extends React.PureComponent {
                       className="mr-4"
                       color="info"
                       href="#pablo"
-                      onClick={(e) => e.preventDefault()}
+                      onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                       size="sm"
                     >
                       Connect
@@ -75,7 +75,7 @@ class Profile extends React.PureComponent {
                       className="float-right"
                       color="default"
                       href="#pablo"
-                      onClick={(e) => e.preventDefault()}
+                      onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                       size="sm"
                     >
                       Message
@@ -124,7 +124,7 @@ class Profile extends React.PureComponent {
                       Nick Murphy — writes, performs and records all of his own
                       music.
                     </p>
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                    <a href="#pablo" onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}>
                       Show more
                     </a>
                   </div>
@@ -142,7 +142,7 @@ class Profile extends React.PureComponent {
                       <Button
                         color="primary"
                         href="#pablo"
-                        onClick={(e) => e.preventDefault()}
+                        onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                         size="sm"
                       >
                         Settings

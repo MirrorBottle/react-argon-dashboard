@@ -49,7 +49,7 @@ class UserHeader extends React.PureComponent {
                 <Button
                   color="info"
                   href="#pablo"
-                  onClick={(e) => e.preventDefault()}
+                  onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                 >
                   Edit profile
                 </Button>
