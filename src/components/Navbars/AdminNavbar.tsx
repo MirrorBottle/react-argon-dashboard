@@ -105,7 +105,7 @@ class AdminNavbar extends React.PureComponent<Props> {
                   <DropdownItem divider />
                   <DropdownItem
                     href="#pablo"
-                    onClick={(e) => e.preventDefault()}
+                    onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                   >
                     <i className="ni ni-user-run" />
                     <span>Logout</span>

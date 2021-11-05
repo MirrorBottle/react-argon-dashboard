@@ -4,13 +4,13 @@ import { NavItem, NavLink } from 'reactstrap';
 import { NavLink as NavLinkRRD, withRouter, RouteComponentProps } from 'react-router-dom';
 import '../../assets/css/SidebarDropdownItem.css';
 type SidebarDropdownItemProps = {
-    path: string;
+    path?: string | undefined;
     name: string;
     icon: string;
-    component: () => JSX.Element;
+    component?: () => JSX.Element;
     layout: string;
-    subMenu: {
-        path: string;
+    subMenu?: {
+        path: string | undefined;
         name: string;
         icon: string;
         component: () => JSX.Element;
@@ -34,11 +34,13 @@ class SidebarDropdownItem extends React.Component<SidebarDropdownItemProps & Rou
     }
 
     componentDidMount() {
-        this.props.subMenu.forEach(({ path, layout }) => {
-            if (this.props.location.pathname === layout + path) {
-                this.toggle(null);
-            }
-        });
+        if(this.props.subMenu) {
+            this.props.subMenu.forEach(({ path, layout }) => {
+                if (this.props.location.pathname === layout + path) {
+                    this.toggle(null);
+                }
+            });
+        }
     }
 
     render() {
@@ -54,7 +56,7 @@ class SidebarDropdownItem extends React.Component<SidebarDropdownItemProps & Rou
                 <Collapse isOpen={this.state.isOpen}>
                     <Card className="border-0">
                         <CardBody className="py-0 pl-4">{
-                            this.props.subMenu.map((prop, key) => {
+                            this.props.subMenu && this.props.subMenu.map((prop, key) => {
                                 return (
                                     <NavItem key={key}>
                                         <NavLink
