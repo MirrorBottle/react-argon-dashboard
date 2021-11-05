@@ -49,7 +49,7 @@ class Register extends React.PureComponent {
                   className="btn-neutral btn-icon mr-4"
                   color="default"
                   href="#pablo"
-                  onClick={(e) => e.preventDefault()}
+                  onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                 >
                   <span className="btn-inner--icon">
                     <img
@@ -65,7 +65,7 @@ class Register extends React.PureComponent {
                   className="btn-neutral btn-icon"
                   color="default"
                   href="#pablo"
-                  onClick={(e) => e.preventDefault()}
+                  onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                 >
                   <span className="btn-inner--icon">
                     <img
@@ -134,7 +134,7 @@ class Register extends React.PureComponent {
                       >
                         <span className="text-muted">
                           I agree with the
-                          <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                          <a href="#pablo" onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}>
                             Privacy Policy
                           </a>
                         </span>

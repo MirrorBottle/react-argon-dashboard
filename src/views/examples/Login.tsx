@@ -49,7 +49,7 @@ class Login extends React.PureComponent {
                   className="btn-neutral btn-icon"
                   color="default"
                   href="#pablo"
-                  onClick={(e) => e.preventDefault()}
+                  onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                 >
                   <span className="btn-inner--icon">
                     <img
@@ -65,7 +65,7 @@ class Login extends React.PureComponent {
                   className="btn-neutral btn-icon"
                   color="default"
                   href="#pablo"
-                  onClick={(e) => e.preventDefault()}
+                  onClick={(e: React.MouseEvent<HTMLButtonElement>) => e.preventDefault()}
                 >
                   <span className="btn-inner--icon">
                     <img
@@ -130,7 +130,7 @@ class Login extends React.PureComponent {
               <a
                 className="text-light"
                 href="#pablo"
-                onClick={(e) => e.preventDefault()}
+                onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
               >
                 <small>Forgot password?</small>
               </a>
@@ -139,7 +139,7 @@ class Login extends React.PureComponent {
               <a
                 className="text-light"
                 href="#pablo"
-                onClick={(e) => e.preventDefault()}
+                onClick={(e: React.MouseEvent<HTMLAnchorElement>) => e.preventDefault()}
               >
                 <small>Create new account</small>
               </a>
